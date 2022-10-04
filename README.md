@@ -1,8 +1,8 @@
 ### Hi, I'm Aureo Spajari Filho.
 
 <div style="display: flex; flex-direction: row;">
- <img height="180em" width="42%" class="img" src="https://github-readme-stats.vercel.app/api?username=aureospajari&show_icons=true&theme=ayu-mirage" />
- <img  height="180em" width="50%" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureospajari&theme=ayu-mirage&layout=compact" />
+ <img height="180em" width="42%" class="img" src="https://aureospajari-git-main-aureospajari.vercel.app/api?username=aureospajari&show_icons=true&theme=ayu-mirage" />
+ <img  height="180em" width="50%" class="img" src="https://aureospajari-git-main-aureospajari.vercel.app/api/top-langs/?username=aureospajari&theme=ayu-mirage&layout=compact" />
 </div>
 
 <div style="display: inline_block"><br>
